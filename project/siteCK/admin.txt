@@ -1,0 +1,3 @@
+username: CKtop
+email:admin@gmail.com
+password:67676767qwe
